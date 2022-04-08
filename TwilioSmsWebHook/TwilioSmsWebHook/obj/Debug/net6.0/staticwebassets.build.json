@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "frKDj7C8xI9ZFSl5mzKPaQWaUkdPhMiKigGlRM5hxug=",
+  "Source": "TwilioSmsWebHook",
+  "BasePath": "_content/TwilioSmsWebHook",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
